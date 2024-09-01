@@ -3,5 +3,5 @@ fastapi
 streamlit
 unicorn
 pandas
-distutils
+disutils
 numpy==1.26.4
